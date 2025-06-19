@@ -2,7 +2,7 @@
 
 I'm Marina, an aspiring Data Scientist from London!
 
-- 🔭 I’m currently working on an image recognition data project
+- 🎤 I’m currently working on an NLP project
 - ❤️ I'd love to do a project about sustainability next
 - 📫 How to reach me: www.linkedin.com/in/marina-leonard/
 
